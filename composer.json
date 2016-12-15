@@ -1,5 +1,5 @@
 {
   "name": "nidaismailshah/workbench_moderation_actions",
-  "description": "Provides a user interface for the Token API and some missing core tokens.",
+  "description": "Provides a actions for each workbench moderation state.",
   "type": "drupal-module",
 }
