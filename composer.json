@@ -1,0 +1,5 @@
+{
+  "name": "nidaismailshah/workbench_moderation_actions",
+  "description": "Provides a user interface for the Token API and some missing core tokens.",
+  "type": "drupal-module",
+}
