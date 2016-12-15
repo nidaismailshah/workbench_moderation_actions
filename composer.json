@@ -1,5 +1,5 @@
 {
   "name": "nidaismailshah/workbench_moderation_actions",
-  "description": "Provides a actions for each workbench moderation state.",
-  "type": "drupal-module",
+  "description": "Provides actions for each workbench moderation state.",
+  "type": "drupal-module"
 }
